@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+bcdy {
+	font-family: "calibri";
+}
+
+h1 {
+	color: orange;
+}
+
+.main-image {
+	border: solid 4px black;
+	border-radius: 50%;
+}
+
+
